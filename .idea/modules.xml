@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../WORKEARLY/Python Data Bootcamp/MyFirstProject/.idea/MyFirstProject.iml" filepath="$PROJECT_DIR$/../../../WORKEARLY/Python Data Bootcamp/MyFirstProject/.idea/MyFirstProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python Tutorial Supplementary Materials.iml" filepath="$PROJECT_DIR$/.idea/Python Tutorial Supplementary Materials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../py4e/.idea/py4e.iml" filepath="$PROJECT_DIR$/../../../py4e/.idea/py4e.iml" />
+    </modules>
+  </component>
+</project>
